@@ -1,0 +1,31 @@
+{
+    "Nodes": [
+        {
+            "Type": 0,
+            "Position": {
+                "x": 298.0,
+                "y": 226.0
+            },
+            "Title": "Dialogue Node",
+            "Speaker": "Speaker",
+            "Dialogue": "TEST",
+            "RandomDialogue": false,
+            "RandomDialogues": [],
+            "Choices": [],
+            "Condition": [],
+            "ConnectedNodeIDs": [],
+            "Balloon": {
+                "instanceID": 0
+            },
+            "NPCSprite": {
+                "instanceID": 0
+            },
+            "Material": {
+                "instanceID": 0
+            },
+            "Sound": {
+                "instanceID": 0
+            }
+        }
+    ]
+}
